@@ -170,11 +170,11 @@
   display: none;
 }
 
-.editmode .task__item__input_text {
+.task__item_edit .task__item__input_text {
   display: inline-block;
   width: 224px;
 }
 
-.editmode .task__item__label {
+.task__item_edit .task__item__label {
   display: none;
 }
